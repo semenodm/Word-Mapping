@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27628</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e40cd3e5-b132-476e-9e4e-47ab66625fde</dc:identifier>
+        <dc:title>A game of thrones</dc:title>
+        <dc:creator opf:file-as="Martin, George" opf:role="aut">George Martin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.38) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-16T08:26:58+00:00</dc:date>
+        <dc:description>In a world where the approaching winter will last four decades, kings and queens, knights and renegades struggle for control of a throne. Some fight with sword and mace, others with magic and poison. Beyond the Wall to the north, meanwhile, the Others are preparing their army of the dead to march south as the warmth of summer drains from the land. After more than a decade devoted primarily to TV and screen work, Martin (The Armageddon Rag, 1983) makes a triumphant return to high fantasy with this extraordinarily rich new novel, the first of a trilogy. Although conventional in form, the book stands out from similar work by Eddings, Brooks and others by virtue of its superbly developed characters, accomplished prose and sheer bloody-mindedness. Although the romance of chivalry is central to the culture of the Seven Kingdoms, and tournaments, derring-do and handsome knights abound, these trappings merely give cover to dangerous men and women who will stop at nothing to achieve their goals. When Lord Stark of Winterfell, an honest man, comes south to act as the King's chief councilor, no amount of heroism or good intentions can keep the realm under control. It is fascinating to watch Martin's characters mature and grow, particularly Stark's children, who stand at the center of the book. Martin's trophy case is already stuffed with major prizes, including Hugos, Nebulas, Locus Awards and a Bram Stoker. He's probably going to have to add another shelf, at least. Major ad/promo.</dc:description>
+        <dc:language>eng</dc:language>
+        <dc:subject>sf_epic</dc:subject>
+        <meta content="{&quot;George Martin&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="A Song of Ice and Fire" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="2012-09-16T08:26:58+00:00" name="calibre:timestamp"/>
+        <meta content="game of thrones, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Обложка"/>
+    </guide>
+</package>
